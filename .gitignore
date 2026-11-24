@@ -1,0 +1,11 @@
+# Environnement Python et fichiers temporaires
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Données locales, modèles et rapports générés
+data/
+data.csv
+models/
+reports/
